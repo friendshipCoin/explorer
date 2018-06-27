@@ -1,0 +1,2 @@
+# explorer
+FriendshipCoin Block Explorer
